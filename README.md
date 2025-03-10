@@ -13,3 +13,8 @@ Sorteo aleatorio para encontrar al amigo secreto.
 
 📸 Capturas de Pantalla
 
+<a href="https://ibb.co/Pzr9XPC2"><img src="https://i.ibb.co/BKfrWQsh/1.png" alt="1" border="0"></a>
+
+
+
+
