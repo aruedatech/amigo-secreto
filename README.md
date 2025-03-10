@@ -15,6 +15,19 @@ Sorteo aleatorio para encontrar al amigo secreto.
 
 
 ![1](https://github.com/user-attachments/assets/f4200b44-1574-4bda-9166-812894435549)
+![2](https://github.com/user-attachments/assets/aa79a30b-ef51-4968-9529-8ab96888a764)
+
+
+🛠️ Tecnologías Utilizadas
+HTML5
+CSS3
+JavaScript
+
+👨‍💻 Autor
+Nombre completo: José Antonio Rueda Vega
+
+🎓 Créditos
+Este proyecto fue desarrollado como parte del Desafío Amigo Secreto de Alura LATAM.
 
 
 
